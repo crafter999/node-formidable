@@ -6,7 +6,7 @@ This repo was forked from https://github.com/felixge/node-formidable to handle
 multipart/form-data (file uploads) on serverless aplications like Webtask.io or AWS Lambda.
 It just save the data to a buffer instead of a file. It's a quick & dirty hack-patch and
 I don't recommended for production envs unless you know what you're doing.
-PS. maxFileSize & maxFieldsSize were set to 1MB.
+PS. maxFileSize & maxFieldsSize were set to 2MB.
 ## Installation
 
 ```sh
