@@ -1,7 +1,7 @@
 {
-  "name": "formidable",
-  "description": "A node.js module for parsing form data, especially file uploads.",
-  "homepage": "https://github.com/felixge/node-formidable",
+  "name": "formidable-memory",
+  "description": "Forked from formidable. It just save files in memory instead of disk",
+  "homepage": "https://github.com/crafter999/node-formidable",
   "license": "MIT",
   "version": "1.2.1",
   "devDependencies": {
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/felixge/node-formidable.git"
+    "url": "git+https://github.com/crafter999/node-formidable.git"
   },
   "bugs": {
-    "url": "http://github.com/felixge/node-formidable/issues"
+    "url": "https://github.com/crafter999/node-formidable/issues"
   },
   "optionalDependencies": {}
 }
